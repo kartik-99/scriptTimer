@@ -27,7 +27,7 @@ timer = st.Timer()
 
 This object will be used for all timing purposes
 
-This script timer object has the following functions :
+## Script timer object functions :
 
 ### 0. Constructor( verbose = 0)
 
