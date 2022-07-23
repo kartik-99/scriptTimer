@@ -1,1 +1,1 @@
-from ScriptTimer import Timer
+from scriptTimer.ScriptTimer import Timer
