@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/scriptTimer/ScriptTimer.py
+src/scriptTimer/__init__.py
+src/scriptTimer.egg-info/PKG-INFO
+src/scriptTimer.egg-info/SOURCES.txt
+src/scriptTimer.egg-info/dependency_links.txt
+src/scriptTimer.egg-info/top_level.txt
